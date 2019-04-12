@@ -1,8 +1,8 @@
 # caps-alert
 Warnt dich, wenn dein Nachbar mal wieder denkt das er lustig sei
 
-# 1. Requirements installieren
+# requirements installieren
 pip install -r requirements.txt
 
-# 3. Usage?
+# usage?
 python caps-alert.py
